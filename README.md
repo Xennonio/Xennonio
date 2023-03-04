@@ -18,13 +18,15 @@
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Xennonio">
- <img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=Xennonio&show_icons=true&theme=dracula&line_height=27"
-      alt="**Xenônio** github stats"/>
-</a>
+<p align="left"> 
+  <a href="https://github.com/Xennonio">
+   <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=Xennonio&show_icons=true&theme=dracula&line_height=27"
+        alt="**Xenônio** github stats"/>
+  </a>
 
-<a href="https://github.com/Xennonio">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xennonio&theme=dracula&hide_langs_below=1"/>
-</a>
+  <a href="https://github.com/Xennonio">
+    <img align="center"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xennonio&theme=dracula&hide_langs_below=1"/>
+  </a>
+</p>
