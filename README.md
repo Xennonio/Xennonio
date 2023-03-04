@@ -19,11 +19,6 @@
 <img src="https://readme-components.vercel.app/api?component=logo&logo=webassembly&text=false&animation=spin&fill=black&textfill=bface6&">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
 <p align="center">
-  <a href="https://github.com/Okami0xff666">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=Xenônio&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
-  </a>
 
 ## **GitHub Estatísticas**
 
