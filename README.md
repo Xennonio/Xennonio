@@ -7,6 +7,17 @@
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
+<div align="center">
+    <a href="https://discord.gg/BP4Az8Zb">
+        <img alt="Discord server" 
+             src="https://img.shields.io/discord/914797672907563041?colorA=1e1e28&colorB=c6aae8&label=Discord&logo=discord&logoColor=white&style=for-the-badge">
+    </a>
+</div><br>
+
+<div style="width: 10px;"></div>
+<a  href="https://discord.gg/BP4Az8Zb"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
+
+
 ## **Linguagens**  
 
 <h4 align="center">
@@ -28,7 +39,7 @@
       alt="**Xenônio** github stats"/>
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/Xennonio">
   <img align="center"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xennonio&theme=dracula&hide_langs_below=1"/>
 </a>
