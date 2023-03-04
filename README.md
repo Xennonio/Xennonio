@@ -30,9 +30,9 @@
   </a>
   
   </a>
-    <a href="https://github.com/Okami0xff666">
+    <a href="[https://github.com/Okami0xff666](https://github.com/Xennonio)">
     <img align="center"
          height="150em"
-         src="https://activity-graph.herokuapp.com/graph?username=Xennonio&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
+         src="https://activity-graph.herokuapp.com/graph?username=Xennonio&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github"/>
   </a>
 </p>
