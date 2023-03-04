@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
+<img src="https://img.shields.io/static/v1?label=Github&message=Xenônio&color=f8efd4&style=for-the-badge&logo=GitHub">
+
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
