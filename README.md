@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Github&message=Xennonio&color=f8efd4&style=for-the-badge&logo=GitHub">
-</p>
-
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
