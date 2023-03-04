@@ -4,7 +4,7 @@
 
 ### 👋 Olá
 <p align="left"> 
-  Pode me chamar Xeno, estou cursando o 3° ano do EM integrado ao ensino técnico de Automação Industrial. Atualmente estou buscando uma vaga para estagiar na área e adquirir experiência profissional. Gosto principalmente de Matemática, em particular a área de fundamentos, como Lógica Formal, Teoria dos Modelos, Teoria dos Tipos e Teoria dos Conjuntos, além de áreas relacionadas como Teoria da Computação. Tenho um conhecimento intermediário de progração em C e LaTeX, estou aprendendo Python e indo atrás de estudar Haskell e assistentes de prova autodidaticamente.
+  Meu nickname é Xenônio, mas pode me chamar Xeno, estou cursando o 3° ano do EM integrado ao ensino técnico de Automação Industrial. Atualmente estou buscando uma vaga para estagiar na área e adquirir experiência profissional. Gosto principalmente de Matemática, em particular a área de fundamentos, como Lógica Formal, Teoria dos Modelos, Teoria dos Tipos e Teoria dos Conjuntos, além de áreas relacionadas como Teoria da Computação. Tenho um conhecimento intermediário de progração em C e LaTeX, estou aprendendo Python e indo atrás de estudar Haskell e assistentes de prova autodidaticamente.
 </p>
 
 ## **Linguagens**  
