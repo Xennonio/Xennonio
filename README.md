@@ -4,15 +4,7 @@
 
 ### 👋 Olá
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-  awefwaefawe
-  fawefawefaw
-  efawefawefa
-  wefawefawefa
-  wefawefawefawe
-  fawefawefawe
-  fawef
+  Meu nome é Alex, mas pode me chamar de Xeno, estou cursando o 3° ano do EM integrado ao ensino técnico de Automação Industrial. Atualmente estou buscando uma vaga para estagiar na área e adquirir experiência profissional. Gosto principalmente de Matemática, em particular a área de fundamentos. Tenho um conhecimento intermediário de progração em C e LaTeX, estou aprendendo Python e indo atrás de estudar Haskell autodidaticamente.
 </p>
 
 ## **Linguagens**  
