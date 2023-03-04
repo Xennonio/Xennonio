@@ -18,7 +18,7 @@
 
 ## **GitHub Estatísticas**
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/Xennonio">
    <img align="center"
         src="https://github-readme-stats.vercel.app/api?username=Xennonio&show_icons=true&theme=dracula&line_height=27"
