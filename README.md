@@ -10,10 +10,18 @@
 ## **Linguagens**  
 
 <h4 align="center">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
+</a>
+<a href="https://www.latex-project.org">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=latex&text=false&animation=spin&fill=black&textfill=bface6&">
+</a>
+<a href="https://www.python.org">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
+</a>
+<a href="https://www.haskell.org">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=haskell&text=false&animation=spin&fill=black&textfill=bface6&">
+</a>
 <p align="center">
 
 ## **GitHub Estatísticas**
