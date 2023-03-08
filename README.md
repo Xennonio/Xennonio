@@ -10,7 +10,7 @@
 ## **Linguagens**  
 
 <h4 align="center">
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"  style="hover:none">
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
 </a>
 <a href="https://www.latex-project.org">
