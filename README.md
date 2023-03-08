@@ -32,7 +32,7 @@ Meu nickname é Xenônio, mas pode me chamar Xeno, estou cursando o 3° ano do E
 ## **Server**
 <p align="center">
   <a href="https://disboard.org/pt-pt/server/1021576634802905148">
-    <img src="https://img.shields.io/static/v1?label=Server&message=Matematica&color=f8efd4&style=for-the-badge&logo=Discord">
+    <img src="https://img.shields.io/static/v1?label=Server&message=Matematica&color=cfd7fe&logoColor=white&colorA=8c9cfe&style=for-the-badge&logo=Discord">
   </a>
 </p>
 
