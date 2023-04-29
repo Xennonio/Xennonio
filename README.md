@@ -27,9 +27,6 @@ Meu nickname é Xenônio, mas pode me chamar Xeno, estou cursando o 3° ano do E
   <a href="https://www.haskell.org">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=haskell&text=false&animation=spin&fill=black&textfill=bface6&">
   </a>
-  <a href="">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=sql&text=false&animation=spin&fill=black&textfill=bface6&">
-  </a>
 </h4>
   
 ## **Server**
