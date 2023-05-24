@@ -7,12 +7,12 @@
      align="right"
      alt="Computador">
 
-### 👋 Olá
+### 👋 Hello
 <p align="left"> 
-Meu nickname é Xenônio, mais conhecido como Xeno. Gosto principalmente de Matemática, em particular a área de fundamentos, como Lógica Formal, Matemática Reversa, Teoria da Prova, Teoria dos Modelos, Teoria dos Tipos e Teoria dos Conjuntos, além de áreas relacionadas como Teoria da Computação. Tenho um conhecimento intermediário de progração em C, Python e LaTeX, e estou indo atrás de estudar Haskell e assistentes de prova autodidaticamente.
+My nickname is Xenônio, better known as Xeno. I mainly like Mathematics, in particular the area of fundamentals, such as Formal Logic, Reverse Mathematics, Proof Theory, Model Theory, Type Theory and Set Theory, as well as related areas such as Theory of Computation. I have an intermediate knowledge of programming in C, Python and LaTeX, and I'm going to self-study Haskell and proof assistants.
 </p>
 
-## **Linguagens**  
+## **Languages**  
 
 <h4 align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
@@ -42,7 +42,7 @@ Meu nickname é Xenônio, mais conhecido como Xeno. Gosto principalmente de Mate
   </a>
 </p>
 
-## **GitHub Estatísticas**
+## **GitHub Stats**
 
 <p align="center"> 
   <a href="https://github.com/Xennonio">
