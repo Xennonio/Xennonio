@@ -24,11 +24,11 @@ My nickname is Xenônio, better known as Xeno. I mainly like Mathematics, in par
   <a href="https://www.python.org">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
   </a>
-  <a href="https://www.haskell.org">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=haskell&text=false&animation=spin&fill=black&textfill=bface6&">
-  </a>
   <a href="https://www.mysql.com">
     <img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=false&animation=spin&fill=black&textfill=bface6&">
+  </a>
+  <a href="https://www.haskell.org">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=haskell&text=false&animation=spin&fill=black&textfill=bface6&">
   </a>
      
 </h4>
