@@ -6,7 +6,7 @@
      width="300px"
      length="500px"
      align="right"
-     alt="Computador">
+     alt="Sachiel">
 
 ### 👋 Hello
 <p align="left"> 
