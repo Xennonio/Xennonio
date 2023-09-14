@@ -3,7 +3,8 @@
 <img src="https://github.com/Xennonio/Xennonio/blob/main/Sachiel.png?raw=true"
      min-width="400px"
      max-width="400px"
-     width="400px"
+     width="300px"
+     length="500px"
      align="right"
      alt="Computador">
 
