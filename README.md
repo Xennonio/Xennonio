@@ -1,4 +1,4 @@
-## <img width="45" alt="about" src="https://raw.githubusercontent.com/Xennonio/steganollamaphy/master/static/llama.ico"> About me
+## <img width="45" alt="about" src="https://raw.githubusercontent.com/Xennonio/Xennonio/2f0c8bc0a76f8942d3745a32d1903bbfbd104597/iconizer-llama-48_45776.svg"> About me
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
      min-width="400px"
