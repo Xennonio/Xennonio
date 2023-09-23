@@ -6,7 +6,8 @@
      width="300px"
      length="500px"
      align="right"
-     alt="Sachiel">
+     alt="Sachiel"
+     style="text-decoration: none;">
 
 ### 👋 Hello
 <p align="left"> 
