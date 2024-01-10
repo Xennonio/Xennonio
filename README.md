@@ -10,7 +10,7 @@
 
 ### 👋 Hello
 <p align="left"> 
-My nickname is Xenônio, better known as Xeno. I mainly like Mathematics, in particular the area of fundamentals, such as Formal Logic, Reverse Mathematics, Proof Theory, Model Theory, Type Theory and Set Theory, as well as related areas such as Theory of Computation and Computability. I have an intermediate knowledge of programming in C, Python and LaTeX, and I'm going to self-study proof assistants.
+My nickname is Xenônio, better known as Xeno. I mainly like Mathematics, in particular the area of fundamentals, such as Formal Logic, Reverse Mathematics, Proof Theory, Model Theory, Type Theory and Set Theory, as well as related areas such as Theory of Computation and Recursion Theory. I have an intermediate knowledge of programming in C, Python and LaTeX, and I'm going to self-study proof assistants.
 </p>
 
 ## **Languages**  
