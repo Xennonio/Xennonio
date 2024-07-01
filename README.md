@@ -34,18 +34,12 @@ My nickname is Xenônio, better known as Xeno. I mainly like Mathematics, in par
      
 </h4>
   
-## **Discord & Server**
+## **Discord**
 <div align="center">
     <a href="https://discord.com/users/756538469106319550">
         <img alt="Discord server" 
              src="https://img.shields.io/badge/-Xeno 🍓-5865F2?logo=discord&logoColor=white&style=for-the-badge">
     </a>
-</div>
-<p align="center">
-  <a href="https://disboard.org/pt-pt/server/1021576634802905148">
-    <img src="https://discordapp.com/api/guilds/1021576634802905148/widget.png?style=banner4" alt="Discord Banner"/>
-  </a>
-</p>
 
 ## **GitHub Stats**
 
