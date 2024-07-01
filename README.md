@@ -10,15 +10,8 @@
 
 ### 👋 Hello
 <p align="left"> 
-My nickname is Xenônio, better known as Xeno. I mainly like Mathematics, in particular the area of foundations, such as Formal Logic, Reverse Mathematics, Proof Theory, Model Theory, Type Theory and Set Theory, as well as related areas such as Theory of Computation and Recursion Theory. I have an intermediate knowledge of programming in C, Python and LaTeX, and I'm going to self-study proof assistants.
+My nickname is Xenônio, better known as Xeno, I'm a math undergrad at IME - USP. I mainly like Mathematics, in particular the area of foundations, such as Formal Logic, Reverse Mathematics, Proof Theory, Model Theory, Type Theory and Set Theory, as well as related areas such as Theory of Computation and Recursion Theory. I have an intermediate knowledge of programming in C, Python and LaTeX, and I'm going to self-study proof assistants.
 </p>
-
-### **My Discord**
-<div align="center">
-    <a href="https://discord.com/users/756538469106319550">
-        <img alt="Discord server" 
-             src="https://img.shields.io/badge/-Xeno 🍓-5865F2?logo=discord&logoColor=white&style=for-the-badge">
-    </a>
 
 ## **Languages**  
 
@@ -55,3 +48,11 @@ My nickname is Xenônio, better known as Xeno. I mainly like Mathematics, in par
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xennonio&theme=dracula&hide_langs_below=1"/>
   </a>
 </p>
+
+## **My Discord**
+<div align="center">
+    <a href="https://discord.com/users/756538469106319550">
+        <img alt="Discord server" 
+             src="https://img.shields.io/badge/-Xeno 🍓-5865F2?logo=discord&logoColor=pink&style=for-the-badge">
+    </a>
+</div>
