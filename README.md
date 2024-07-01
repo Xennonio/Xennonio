@@ -13,6 +13,13 @@
 My nickname is Xenônio, better known as Xeno. I mainly like Mathematics, in particular the area of foundations, such as Formal Logic, Reverse Mathematics, Proof Theory, Model Theory, Type Theory and Set Theory, as well as related areas such as Theory of Computation and Recursion Theory. I have an intermediate knowledge of programming in C, Python and LaTeX, and I'm going to self-study proof assistants.
 </p>
 
+### **My Discord**
+<div align="center">
+    <a href="https://discord.com/users/756538469106319550">
+        <img alt="Discord server" 
+             src="https://img.shields.io/badge/-Xeno 🍓-5865F2?logo=discord&logoColor=white&style=for-the-badge">
+    </a>
+
 ## **Languages**  
 
 <h4 align="center">
@@ -33,13 +40,6 @@ My nickname is Xenônio, better known as Xeno. I mainly like Mathematics, in par
   </a>
      
 </h4>
-  
-## **Discord**
-<div align="center">
-    <a href="https://discord.com/users/756538469106319550">
-        <img alt="Discord server" 
-             src="https://img.shields.io/badge/-Xeno 🍓-5865F2?logo=discord&logoColor=white&style=for-the-badge">
-    </a>
 
 ## **GitHub Stats**
 
