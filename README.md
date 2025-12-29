@@ -13,39 +13,6 @@
 My nickname is Xenônio, better known as Xeno, I'm a math undergrad at IME - USP. I mainly like Mathematics, in particular the area of foundations, such as Formal Logic, Reverse Mathematics, Proof Theory, Model Theory, Type Theory and Set Theory, as well as related areas such as Theory of Computation and Recursion Theory.
 </p>
 
-## **Languages**  
-
-<h4 align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
-  </a>
-  <a href="https://www.latex-project.org">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=latex&text=false&animation=spin&fill=black&textfill=bface6&">
-  </a>
-  <a href="https://www.python.org">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=python&text=false&animation=spin&fill=black&textfill=bface6&">
-  </a>
-  <a href="https://www.mysql.com">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=mysql&text=false&animation=spin&fill=black&textfill=bface6&">
-  </a>
-     
-</h4>
-
-## **GitHub Stats**
-
-<p align="center"> 
-  <a href="https://github.com/Xennonio">
-   <img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=Xennonio&show_icons=true&theme=dracula&line_height=27"
-        alt="**Xenônio** github stats"/>
-  </a>
-
-  <a href="https://github.com/Xennonio">
-    <img align="center"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xennonio&theme=dracula&hide_langs_below=1"/>
-  </a>
-</p>
-
 ## **My Discord**
 <div align="center">
     <a href="https://discord.com/users/756538469106319550">
