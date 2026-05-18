@@ -12,11 +12,3 @@
 <p align="left"> 
 My nickname is Xennonio, better known as Xeno, I'm a math undergrad at IME - USP. I mainly like Mathematics, in particular the area of foundations, such as Formal Logic, Model Theory, Set Theory, Reverse Mathematics and Proof Theory, as well as related areas.
 </p>
-
-## **My Discord**
-<div align="center">
-    <a href="https://discord.com/users/756538469106319550">
-        <img alt="Discord server" 
-             src="https://img.shields.io/badge/-Xeno 🍓-5865F2?logo=discord&logoColor=pink&style=for-the-badge">
-    </a>
-</div>
