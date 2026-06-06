@@ -10,5 +10,5 @@
 
 ### 👋 Hello
 <p align="left"> 
-My nickname is Xennonio, better known as Xeno, I'm a math undergrad at IME - USP. I mainly like Mathematics, in particular the area of foundations, such as Formal Logic, Model Theory and Set Theory, as well as related areas.
+My nickname is Xennonio / Xeno, I'm a math undergrad at IME - USP. I mainly like Mathematics, in particular the area of foundations, such as Formal Logic, Model Theory and Set Theory, as well as related areas.
 </p>
